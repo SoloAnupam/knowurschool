@@ -19,6 +19,7 @@
 	background: #fff;
 	padding: 5px;
 	overflow: hidden;
+	border-radius: 20px;
 }
 .button-box{
 	width: 220px;
@@ -26,6 +27,7 @@
 	position: relative;
 	box-shadow: 0 0 20px 9px #ff61241f;
 	border-radius: 30px;
+	text-align: center;
 }
 .toggle-btn{
 	padding: 10px 30px;
